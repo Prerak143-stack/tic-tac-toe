@@ -1,6 +1,4 @@
-# I am Prerak Patel and my student number is 000736376, I have created this
-# program all by myself and I haven't shared with anyone. My professor name
-# is Tiffany,Antopolski
+
 
 def board(place):
 
